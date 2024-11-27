@@ -1,5 +1,5 @@
 # Hi 👋, I´m Facundo Palomanes
-### 🚀 About Me:
+## 🚀 About Me:
 <p align="center">I am a fullstack developer with experience in creating efficient and scalable web and mobile applications. I enjoy new challenges and am always willing to learn new technologies. I am currently studying for a Bachelor's degree in Programming at the National Technological University (UTN). I excel at solving complex problems and have strong teamwork skills.</p>
 
 
@@ -20,6 +20,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 📩 Connect with Me
+<p align="left">
+<a href="www.linkedin.com/in/facundopalomanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundopalomanes" height="30" width="40" /></a>
+<a href="https://instagram.com/facundopalomanes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facundopalomanes_" height="30" width="40" /></a>
+<a href="https://discord.gg/Darshed#7907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Darshed#7907" height="30" width="40" /></a>
+</p>
 
 
 Last Edited on: 27/11/2024
