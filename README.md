@@ -1,6 +1,6 @@
 # Hi 👋, I´m Facundo Palomanes
 ### 🚀 About Me:
-<p>I am a fullstack developer with experience in creating efficient and scalable web and mobile applications. I enjoy new challenges and am always willing to learn new technologies. I am currently studying for a Bachelor's degree in Programming at the National Technological University (UTN). I excel at solving complex problems and have strong teamwork skills.</p>
+<p align="center">I am a fullstack developer with experience in creating efficient and scalable web and mobile applications. I enjoy new challenges and am always willing to learn new technologies. I am currently studying for a Bachelor's degree in Programming at the National Technological University (UTN). I excel at solving complex problems and have strong teamwork skills.</p>
 
 
 ## <img src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47o5vcvygpxdykimkg6a2sqtddsw75yj03eo1qf0zz&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Tech Stack:
@@ -21,9 +21,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
-
-------
 
 Last Edited on: 27/11/2024
