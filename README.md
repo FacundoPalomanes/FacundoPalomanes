@@ -2,8 +2,9 @@
  <h1>Hi 👋, I´m Facundo Palomanes</h1>
 </div>
 
-
-<p>I am a fullstack developer with experience in creating efficient and scalable web and mobile applications. I enjoy new challenges and am always willing to learn new technologies. I am currently studying for a Bachelor's degree in Programming at the National Technological University (UTN). I excel at solving complex problems and have strong teamwork skills.</p>
+<div align="center">
+<p>I am a fullstack developer with experience in creating efficient and scalable web and mobile applications. I enjoy new challenges and am always willing to learn new technologies. I am currently studying for a Bachelor's degree in Programming at the National Technological University (UTN). I excel at solving complex problems and have strong teamwork skills.</p> 
+</div>
 📩 Connect with Me
 
 <!--
