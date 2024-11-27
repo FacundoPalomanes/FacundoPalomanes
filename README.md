@@ -23,9 +23,9 @@
 
 ## 📩 Connect with Me
 <p align="left">
-<a href="www.linkedin.com/in/facundopalomanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundopalomanes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/facundopalomanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundopalomanes" height="30" width="40" /></a>
 <a href="https://instagram.com/facundopalomanes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facundopalomanes_" height="30" width="40" /></a>
-<a href="https://discord.gg/Darshed#7907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Darshed#7907" height="30" width="40" /></a>
+<a href="https://discord.gg/darshed#7907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darshed#7907" height="30" width="40" /></a>
 </p>
 
 
