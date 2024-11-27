@@ -1,4 +1,6 @@
- Hi 👋, I´m Facundo Palomanes
+<div align="center">
+ <h1>Hi 👋, I´m Facundo Palomanes</h1>
+</div>
 
 
 📩 Connect with Me
